@@ -27,7 +27,7 @@ there are two fixed states `:start` and `:finish`. These tell us where we are. W
 
 What is appealing about this is that this map can be changed by someone who doesn't know anything about programming. 
 
-the layout is pretty simple
+the layout is pretty simple...
 
 | current state | via | next state |
 |-------| ------| ----- |
